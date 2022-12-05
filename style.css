@@ -1,0 +1,61 @@
+@media (max-width: 61.25em){
+html{
+    font-size: 58%;
+}
+}
+
+* {
+    padding: 0;
+    margin: 0;
+}
+body {
+    background: #45567d;
+    color: white;
+}
+
+#welcome-section {
+    background: #303841;
+    padding-top: 20%;
+    padding-bottom: 25%;
+    margin: auto;
+    font-size: 50px;
+    text-align: center;
+}
+header {
+background-color:#be3144;
+display: flex;
+margin: auto;
+font-size: 28px;
+align-items: center;
+}
+#navbar {
+flex: 1;
+float: right;
+}
+#navbar ul li{
+    display: inline-block;
+    margin: 10px;
+}
+
+#navbar ul li a{
+    color: white;
+}
+
+#projects .projects-section-header {
+    font-size: 28px;
+    text-align: center;
+    margin: 30px;
+}
+
+.project_grid {
+    text-align: center;
+    margin-bottom: 40px;
+}
+#profile-link{
+    text-align: center;
+    font-size: 30px;
+}
+#profile-link a{
+color: white;
+margin-bottom: 20px;
+}
